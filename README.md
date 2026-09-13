@@ -15,9 +15,9 @@ Software developer focused on building practical tools and purpose-driven utilit
 
 ### 🛠️ Stack & Tools
 
-- **Languages:** JavaScript, Rust, C#, Lua, GDScript, HTML5, CSS3, XML
+- **Languages:** JavaScript, HTML5, CSS3
 - **Runtime:** Node.js
-- **Environment & Tools:** VS Code, Antigravity IDE, Git & GitHub
+- **Environment & Tools:** VS Code, Antigravity, Git & GitHub
 - **Workflow:** AI-assisted development and vibecoding focused on rapid prototyping and practical problem-solving
 
 ---
