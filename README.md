@@ -15,8 +15,6 @@ Software developer focused on building practical tools and purpose-driven utilit
 
 - **Languages:** JavaScript, HTML5, CSS3
 - **Environment & Tools:** VS Code, Antigravity, Node.js, Git & GitHub
-- **Workflow:** AI-assisted development and vibecoding focused on rapid prototyping and practical problem-solving
-
 ---
 
 ### 🔭 Current Focus
