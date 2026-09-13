@@ -6,18 +6,15 @@ Software developer focused on building practical tools and purpose-driven utilit
 
 ### 🚀 Featured Project
 
-- **[TOLGRIM-JitterFX](https://github.com/Tolgrim-arch/TOLGRIM-JitterFX)**  
-  PWA web tool for digital artists to apply jitter/hand-drawn effects to images and export loops in WebM/GIF optimized for X (Twitter).  
+- **[TOLGRIM-JitterFX](https://github.com/Tolgrim-arch/TOLGRIM-JitterFX)** PWA web tool for digital artists to apply jitter/hand-drawn effects to images and export loops in WebM/GIF optimized for X (Twitter).  [*Stack:* JavaScript, HTML5, CSS3, Web APIs.]
   👉 **Live Demo:** [tolgrim-arch.github.io/TOLGRIM-JitterFX](https://tolgrim-arch.github.io/TOLGRIM-JitterFX/)  
-  *Stack:* JavaScript, HTML5, CSS3, Web APIs.
 
 ---
 
 ### 🛠️ Stack & Tools
 
 - **Languages:** JavaScript, HTML5, CSS3
-- **Runtime:** Node.js
-- **Environment & Tools:** VS Code, Antigravity, Git & GitHub
+- **Environment & Tools:** VS Code, Antigravity, Node.js, Git & GitHub
 - **Workflow:** AI-assisted development and vibecoding focused on rapid prototyping and practical problem-solving
 
 ---
